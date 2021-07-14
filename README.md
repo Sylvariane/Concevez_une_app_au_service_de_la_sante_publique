@@ -6,7 +6,8 @@ Les compétences évaluées étaient :
 - Effectuer des opérations de nettoyage sur des données structurées
 - Effectuer une analyse statistique multivariée
 - Effectuer une analyse statistique univariée
-Ce projet a été soutenu et validé le 9 juillet 2021. 
+
+Ce projet a été **soutenu** et **validé** le 9 juillet 2021. 
 
 ## Présentation de l'application
 
@@ -16,4 +17,6 @@ L'idée de l'application est de créer une classification qui prennent en compte
 De plus, cette classification pourrait par la suite s'adapter à d'autres produits vendus dans d'autres pays.
 
 L'idée de Nutr'avel est donc d'être une application qui se base sur un algorithme de segmentation pour classer des produits issus d'une base de données open source.
-A l'issue de cette classification, on pourrait ensuite prédire le score Nutr'avel d'un produit vendu à l'étranger. 
+A l'issue de cette classification, on pourrait ensuite prédire le score Nutr'avel d'un produit vendu à l'étranger. Le fonctionnement de l'application est décrit sur l'image ci-dessous. 
+
+![image](https://user-images.githubusercontent.com/64648386/125678022-65a8ebac-22ce-4da5-a305-2c3b33646d88.png)
