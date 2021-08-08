@@ -1,5 +1,7 @@
 # Conception d'une application au service de la santé publique
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sylvariane/Concevez_une_app_au_service_de_la_sante_publique/HEAD)
+
 Ce projet a été réalisé dans le cadre de la formation "Ingénieur Machine Learning" avec OpenClassrooms et Centrale Supelec.
 Les compétences évaluées étaient : 
 - Communiquer ses résultats à l’aide de représentations graphiques lisibles et pertinentes
